@@ -25,6 +25,10 @@ while True:
       encouragement_list.append("everyone feels tired, take a break and come back even refreshed")
       counter += 1
 
+    if each_word == "regretful":
+      feelings_list.append("regretful")
+      encouragement_list.append(" do not avoid it, as you know, it is a negative emotion, 
+      
   if counter == 0:
     
       output = "Sorry I don't really understand. Please use different words?"
