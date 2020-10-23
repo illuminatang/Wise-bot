@@ -27,7 +27,7 @@ while True:
 
     if each_word == "regretful":
       feelings_list.append("regretful")
-      encouragement_list.append(" do not avoid it, as you know, it is a negative emotion, 
+      encouragement_list.append(" do not avoid it, as you know, it is a negative emotion, instead of avoiding it, simply take responsiblity for it. Just make sure you learn from it, because thats where true learning comes, thats what self improvement is.")
       
   if counter == 0:
     
